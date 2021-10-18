@@ -1,6 +1,28 @@
+[comment]: <> (My Introduction)
 ## Hey 👋, This is Afid Arifin
-[![Gmail Badge](https://img.shields.io/badge/-afidbara@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:afidbara@gmail.com)](mailto:afidbara@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-afidarifin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afidarifin/)](https://www.linkedin.com/in/afidarifin/) [![Github Badge](https://img.shields.io/badge/-afidarifin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/afidarifin/)](https://www.github.com/afidarifin/) [![Twitter Badge](https://img.shields.io/badge/-afidaffin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/afidaffin/)](https://www.twitter.com/afidaffin/) <p align='left'>I'm just a man from Banjarnegara, Central Java, Indonesia who loves astronomy and computers.</p><p align='left'> You can visit my personal website <a href='https://www.afidbara.com ' rel="dofollow" target=_blank><u>here</u>.</a></p>
+
+[comment]: <> (My Contacts)
+[![Gmail Badge](https://img.shields.io/badge/-afidbara@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:afidbara@gmail.com)]()
+[![Instagram Badge](https://img.shields.io/badge/-afidbara-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/afidbara/)]()
+[![Github Badge](https://img.shields.io/badge/-afidarifin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/afidarifin/)]()
+[![Twitter Badge](https://img.shields.io/badge/-afidbara-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/afidbara/)]()
+[![Facebook Badge](https://img.shields.io/badge/-afidie-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/afidie/)]()
+
+[comment]: <> (About Me)
+<p align='left'>I'm just a man from Banjarnegara, Central Java, Indonesia who loves astronomy and computers. Liking the world of astronomy means also thinking about the greatness of God Almighty. Likewise with liking computers, with computers we can think about things that exist in this vast universe. These things don't just happen, they're all interrelated.</p>
+<p align='left'>I have website development experience since 2014 until now, currently I only focus on website development. Especially in the development section on the back end.</p>
+
+[comment]: <> (My Skills)
+## My Skills
+[![Javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
+[![Jquery Badge](https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white)]()
+[![Mysql Badge](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)]()
+
+[comment]: <> (My Github Stats)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=afidarifin alt=afidarifin /> </p>
 

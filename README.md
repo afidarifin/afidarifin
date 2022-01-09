@@ -9,7 +9,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-afidie-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/afidie/)]()
 
 [comment]: <> (About Me)
-<p align='left'>I'm just a man from Banjarnegara, Central Java, Indonesia who loves astronomy and computers. Liking the world of astronomy means also thinking about the greatness of God Almighty. Likewise with liking computers, with computers we can think about things that exist in this vast universe. These things don't just happen, they're all interrelated.</p>
+<p align='left'>I'm just a man from Banjarnegara, Central Java, Indonesia who loves astronomy and computers. Liking the world of astronomy means also thinking about the greatness of God Almighty.</p>
+<p>Likewise with liking computers, with computers we can think about things that exist in this vast universe. These things don't just happen, they're all interrelated.</p>
 <p align='left'>I have website development experience since 2014 until now, currently I only focus on website development. Especially in the development section on the back end.</p>
 
 [comment]: <> (My Skills)

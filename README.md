@@ -2,7 +2,7 @@
 ## Hey 👋, This is Afid Arifin
 
 [comment]: <> (My Contacts)
-[![Gmail Badge](https://img.shields.io/badge/-affinbara@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:affinbara@gmail.com)]()
+[![Gmail Badge](https://img.shields.io/badge/-afidasta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:afidasta@gmail.com)]()
 [![Instagram Badge](https://img.shields.io/badge/-afidbara-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/afidbara/)]()
 [![Github Badge](https://img.shields.io/badge/-afidarifin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/afidarifin/)]()
 [![Twitter Badge](https://img.shields.io/badge/-afidbara-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/afidbara/)]()

@@ -2,11 +2,11 @@
 ## Hey 👋, This is Afid Arifin
 
 [comment]: <> (My Contacts)
-[![Gmail Badge](https://img.shields.io/badge/-afidasta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:afidasta@gmail.com)]()
+[![Gmail Badge](https://img.shields.io/badge/-afidbara@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:afidasta@gmail.com)]()
 [![Instagram Badge](https://img.shields.io/badge/-afidbara-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/afidbara/)]()
 [![Github Badge](https://img.shields.io/badge/-afidarifin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/afidarifin/)]()
 [![Twitter Badge](https://img.shields.io/badge/-afidbara-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/afidbara/)]()
-[![Facebook Badge](https://img.shields.io/badge/-afidie-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/afidie/)]()
+[![Facebook Badge](https://img.shields.io/badge/-afidbara-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/afidbara/)]()
 
 [comment]: <> (About Me)
 <p align='left'>I'm just a man from Banjarnegara, Central Java, Indonesia who loves astronomy and computers. Liking the world of astronomy means also thinking about the greatness of God Almighty.</p>

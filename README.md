@@ -1,5 +1,6 @@
 [comment]: <> (My Introduction)
 ## Hey 👋, This is Afid Arifin
+![Sampul](https://scontent.fsrg4-1.fna.fbcdn.net/v/t39.30808-6/334050020_1345807625991463_385881265203334323_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEN_EWtrED-yToLqbhNKd3I_aJ9EH5b5r_9on0QflvmvxaWCcrLdzLUZkCsLuqram_XlP2QJTXtXkV6mdGXcldl&_nc_ohc=1vf-U-DvK5UAX_UNSte&_nc_zt=23&_nc_ht=scontent.fsrg4-1.fna&oh=00_AfBq0ir8H9K9nNKNK3jdv6647xJS0G12K-zg5e7gdc9xQQ&oe=65B24815)
 
 [comment]: <> (My Contacts)
 [![Gmail Badge](https://img.shields.io/badge/-affinbara@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:affinbara@gmail.com)]()
